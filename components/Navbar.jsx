@@ -22,9 +22,9 @@ const NavBar = () => {
     return(
         <div className="fixed-w-full h-20 shadow-xl z-[100] bg-[white] font-sans ">
             <div className="flex justify-between items-center w-full h-full px-4 2xl:px-16">
-                <Link href="/" className="scroll-smooth">
+                
                     <Image src='/../public/assets/Blank-1.png' alt='/' width='125' height='50'></Image>
-                </Link>
+                
             <div>
                 <ul className="hidden md:flex">
                     <Link href='/' className="ml-10 text-sm uppercase underline decoration-transparent transition duration-300 ease-in-out hover:decoration-inherit hover:scale-110"  >Home
