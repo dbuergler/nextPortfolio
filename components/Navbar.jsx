@@ -3,7 +3,7 @@ import Link from "next/link";
 import React, {useState, useEffect} from 'react';
 import { AiOutlineClose, AiOutlineMail, AiOutlineMenu } from 'react-icons/ai';
 import { FaGithub, FaLinkedinIn } from 'react-icons/fa';
-
+import Logo from '../public/assets/Blank-1.png';
 
 
 
@@ -22,8 +22,7 @@ const NavBar = () => {
     return(
         <div className="fixed-w-full h-20 shadow-xl z-[100] bg-[white] font-sans ">
             <div className="flex justify-between items-center w-full h-full px-4 2xl:px-16">
-                
-                    <Image src='/../public/assets/Blank-1.png' alt='/' width='125' height='50'></Image>
+                    <Image src={Logo} alt='/' width='125' height='50'></Image>
                 
             <div>
                 <ul className="hidden md:flex">
