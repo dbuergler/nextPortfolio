@@ -16,7 +16,7 @@ const About = () => {
                         I spent the first 4 years of my professional experience working in non-profit organizations as a project manager. In 2020, I decided I wanted to challenge myself and I was lucky enough to attend Eleven Fifty Academy for free. I gradutated the Academy in 2021 and starting working for Infosys as an Associate Software Engineer. In my time at Infosys, I have learned and enhanced my skills in HTML, CSS, JavaScript, Angular, ReactJs, Java, Cloud Engineering, and UX/UI Design. 
                     </p>
                     <br></br>
-                    <a href="https://github.com/dbuergler/resume/blob/master-branch/Buergler_Daniel_Resume%20(1).pdf" target='_blank'>
+                    <a href="https://github.com/dbuergler/Resume/blob/master-branch/_Daniel_Buergler_Resume_%20.docx" target='_blank'>
                     <button type="button" className="text-white bg-[#4361EE] hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 mr-2 mb-2 dark:bg-blue-600 dark:hover:bg-blue-700 focus:outline-none dark:focus:ring-blue-800">My Resume
                     </button>
                     </a>
